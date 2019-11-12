@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/TaskReactApp/static/css/main.a9fb6662.chunk.css",
-    "main.js": "/TaskReactApp/static/js/main.a28bffeb.chunk.js",
-    "main.js.map": "/TaskReactApp/static/js/main.a28bffeb.chunk.js.map",
-    "runtime-main.js": "/TaskReactApp/static/js/runtime-main.b2b8571d.js",
-    "runtime-main.js.map": "/TaskReactApp/static/js/runtime-main.b2b8571d.js.map",
-    "static/js/2.47eca058.chunk.js": "/TaskReactApp/static/js/2.47eca058.chunk.js",
-    "static/js/2.47eca058.chunk.js.map": "/TaskReactApp/static/js/2.47eca058.chunk.js.map",
-    "index.html": "/TaskReactApp/index.html",
-    "precache-manifest.ba8989eb34e78913f290d00f565fd97e.js": "/TaskReactApp/precache-manifest.ba8989eb34e78913f290d00f565fd97e.js",
-    "service-worker.js": "/TaskReactApp/service-worker.js",
-    "static/css/main.a9fb6662.chunk.css.map": "/TaskReactApp/static/css/main.a9fb6662.chunk.css.map"
+    "main.css": "/ReactJS-Task-App/static/css/main.a9fb6662.chunk.css",
+    "main.js": "/ReactJS-Task-App/static/js/main.a28bffeb.chunk.js",
+    "main.js.map": "/ReactJS-Task-App/static/js/main.a28bffeb.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Task-App/static/js/runtime-main.1ae6635d.js",
+    "runtime-main.js.map": "/ReactJS-Task-App/static/js/runtime-main.1ae6635d.js.map",
+    "static/js/2.47eca058.chunk.js": "/ReactJS-Task-App/static/js/2.47eca058.chunk.js",
+    "static/js/2.47eca058.chunk.js.map": "/ReactJS-Task-App/static/js/2.47eca058.chunk.js.map",
+    "index.html": "/ReactJS-Task-App/index.html",
+    "precache-manifest.832b166bba3e02d000481bfd6dd06387.js": "/ReactJS-Task-App/precache-manifest.832b166bba3e02d000481bfd6dd06387.js",
+    "service-worker.js": "/ReactJS-Task-App/service-worker.js",
+    "static/css/main.a9fb6662.chunk.css.map": "/ReactJS-Task-App/static/css/main.a9fb6662.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2b8571d.js",
+    "static/js/runtime-main.1ae6635d.js",
     "static/js/2.47eca058.chunk.js",
     "static/css/main.a9fb6662.chunk.css",
     "static/js/main.a28bffeb.chunk.js"
