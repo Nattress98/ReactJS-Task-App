@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TaskReactApp/static/css/main.a9fb6662.chunk.css",
+    "main.js": "/TaskReactApp/static/js/main.a28bffeb.chunk.js",
+    "main.js.map": "/TaskReactApp/static/js/main.a28bffeb.chunk.js.map",
+    "runtime-main.js": "/TaskReactApp/static/js/runtime-main.b2b8571d.js",
+    "runtime-main.js.map": "/TaskReactApp/static/js/runtime-main.b2b8571d.js.map",
+    "static/js/2.47eca058.chunk.js": "/TaskReactApp/static/js/2.47eca058.chunk.js",
+    "static/js/2.47eca058.chunk.js.map": "/TaskReactApp/static/js/2.47eca058.chunk.js.map",
+    "index.html": "/TaskReactApp/index.html",
+    "precache-manifest.ba8989eb34e78913f290d00f565fd97e.js": "/TaskReactApp/precache-manifest.ba8989eb34e78913f290d00f565fd97e.js",
+    "service-worker.js": "/TaskReactApp/service-worker.js",
+    "static/css/main.a9fb6662.chunk.css.map": "/TaskReactApp/static/css/main.a9fb6662.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2b8571d.js",
+    "static/js/2.47eca058.chunk.js",
+    "static/css/main.a9fb6662.chunk.css",
+    "static/js/main.a28bffeb.chunk.js"
+  ]
+}
