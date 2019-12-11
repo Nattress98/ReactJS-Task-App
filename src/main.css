@@ -24,7 +24,6 @@ h1 {
   float: left;
 }
 .Task label input {
-  /* Double-sized Checkboxes */
   -ms-transform: scale(4); /* IE */
   -moz-transform: scale(4); /* FF */
   -webkit-transform: scale(4); /* Safari and Chrome */
